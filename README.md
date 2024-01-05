@@ -5,7 +5,9 @@
 👨‍💻 Experience:
 
 Data Analyst - UST Product Engineering (2022-2023)
+
 Data Analyst - Healthledger Diagnostics (2021-2022)
+
 Business Analyst Intern - Hexanika (2019-2021)
 
 📚 Education:
