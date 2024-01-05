@@ -8,7 +8,7 @@
 - Data Analyst - Healthledger Diagnostics (2021-2022)
 - Business Analyst Intern - Hexanika (2019-2021)
 
-SKILLS:
+💡 Skills:
 - Programming languages: Python, SQL, R Programming, SAS
 - Cloud Servies: Azure, GCP, AWS
 - Data Analysis and manipulation libraries: Matplotlib, Seaborn, Numpy, Pandas, Sklearn
