@@ -12,12 +12,19 @@ Business Analyst Intern - Hexanika (2019-2021)
 
 SKILLS:
 Programming languages: Python, SQL, R Programming, SAS
-Cloud Servies: Azure, GCP, AWS.
+
+Cloud Servies: Azure, GCP, AWS
+
 Data Analysis and manipulation libraries: Matplotlib, Seaborn, Numpy, Pandas, Sklearn
+
 Business Intelligence tools: Power BI, Tableau, Microsoft Excel
+
 Analysis: Statistical Analysis, Predictive Analysis
+
 Big Data tools: Hadoop, Apache-Hive, Spark
+
 Version Control Tools: Git
+
 Project Management: JIRA
 
 📚 Education:
