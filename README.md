@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @swarali181999
-- 👀 I’m interested in Data Analytics & Data science
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me swaralibavalekar1234@gmail.com
+🚀 Data Analyst & MSc in Big Data Analytics Enthusiast 📊
 
-<!---
-swarali181999/swarali181999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 I'm Swarali Bavalekar, a passionate data analyst with 2 years of hands-on experience transforming raw data into actionable insights. Currently diving deeper into the world of Big Data Analytics through my Master's program.
