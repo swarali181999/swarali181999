@@ -1,9 +1,10 @@
 🚀 Data Analyst & MSc in Big Data Analytics Enthusiast 📊
 
-👋 I'm Swarali Bavalekar, a passionate data analyst with 2 years of hands-on experience transforming raw data into actionable insights. Currently diving deeper into the world of Big Data through my Master's program.
+👋 I'm Swarali Bavalekar, a passionate data analyst with 3 years of hands-on experience transforming raw data into actionable insights. Currently diving deeper into the world of Big Data through my Master's program.
 
 👨‍💻 Experience:
-- Research Assistant Machine Learning - Sheffield Hallam University (2024-Present)
+- Utility Accounting Analyst - Amber Energy Solutions (March 2025 - Present)
+- Research Assistant Machine Learning - Sheffield Hallam University (Jan 2024 - Oct 2025)
 - Data Analyst - UST Product Engineering (2022-2023)
 - Data Analyst - Healthledger Diagnostics (2021-2022)
 - Business Analyst Intern - Hexanika (2019-2021)
