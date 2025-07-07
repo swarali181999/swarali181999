@@ -21,7 +21,7 @@
 
 📚 Education:
 
-- Pursuing Master's in Big Data Analytics at Sheffield Hallam University (Present)
+- Completed Master's in Big Data Analytics at Sheffield Hallam University (2024)
 - Completed Master's in Statistics at MIT World Peace University (2021)
 
 
